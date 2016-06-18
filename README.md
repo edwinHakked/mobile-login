@@ -1,8 +1,9 @@
-# mobile-login
+# Mobile login
 A secure password"less" login method inspired by mobile bank id
 
 In Sweden, you can login into bank system or gov's platform through an authentication method called Bank ID. They also got an mobile version of it namely mobile Bank ID.
 The way to login is to:
+
 1. first, type your personal number into the login field.
 2. open your mobile app and "sign" the login request (which is a simple click).
 3. you are logged in! No password is needed except the one on the phone to prevent unauthorized access to the app.
